@@ -2,7 +2,7 @@
 #' @param a an input number
 #' @export
 randomOperation <- function(a) {
-  num <- runif(1, 1, 1000)
+  num <- stats::runif(1, 1, 1000)
   choice <- sample(1:4, 1)
 
   ops <- list(
