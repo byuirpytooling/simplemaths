@@ -9,7 +9,7 @@ root(num, n)
 \arguments{
 \item{num}{is the number to take the root of}
 
-\item{x}{is the root degree (2 for square root, 3 for cubed root, etc.)}
+\item{n}{is the root degree (2 for square root, 3 for cubed root, etc.)}
 }
 \description{
 An example root function
