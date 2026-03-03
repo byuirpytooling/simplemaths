@@ -2,7 +2,7 @@
 % Please edit documentation in R/sin_squared_plus_cos_squared.r
 \name{sin_squared_plus_cos_squared}
 \alias{sin_squared_plus_cos_squared}
-\title{An example factorial function}
+\title{An example sin squared plus cos squared function}
 \usage{
 sin_squared_plus_cos_squared(int)
 }
@@ -13,7 +13,7 @@ sin_squared_plus_cos_squared(int)
 Calculates sin squared plus cos squared of the given integer. It should always return 1.
 }
 \description{
-An example factorial function
+An example sin squared plus cos squared function
 }
 \examples{
 sin_squared_plus_cos_squared(pi / 4)

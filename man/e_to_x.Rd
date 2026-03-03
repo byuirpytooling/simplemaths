@@ -13,5 +13,5 @@ e_to_x(x)
 Calculate e raised to the power of x
 }
 \examples{
-e(2)
+e_to_x(2)
 }
