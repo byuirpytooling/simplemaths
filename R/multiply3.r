@@ -3,7 +3,7 @@
 #' @param a A numeric value
 #' @param b A numeric value
 #' @param c A numeric value
-#' @example multiply3(2, 3, 4)
+#' @examples multiply3(2, 3, 4)
 #' @export
 multiply3 <- function(a, b, c) {
   a * b * c

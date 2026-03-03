@@ -7,9 +7,7 @@
 absolute(x1)
 }
 \arguments{
-\item{base}{base to be exponentiated}
-
-\item{power}{power of the exponentiation}
+\item{x1}{number to be made positive}
 }
 \description{
 Return the same magnitude, but always positive

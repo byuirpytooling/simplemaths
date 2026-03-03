@@ -16,3 +16,6 @@ multiplydivide(m1, m2, d1)
 \description{
 This function takes in 3 numbers, multiplies the first two and divides by the third
 }
+\examples{
+multiplydivide(4, 5, 2)
+}

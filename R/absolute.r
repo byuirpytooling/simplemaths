@@ -1,7 +1,6 @@
 #' Absolute value of a number
 #' @description Return the same magnitude, but always positive
-#' @param base base to be exponentiated
-#' @param power power of the exponentiation
+#' @param x1 number to be made positive
 #' @examples
 #' absolute(-13.26)
 #' absolute(-999999)

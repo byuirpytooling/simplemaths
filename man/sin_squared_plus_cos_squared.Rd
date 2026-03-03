@@ -7,7 +7,7 @@
 sin_squared_plus_cos_squared(int)
 }
 \arguments{
-\item{ratio}{A non-negative integer}
+\item{int}{A non-negative integer}
 }
 \value{
 Calculates sin squared plus cos squared of the given integer. It should always return 1.

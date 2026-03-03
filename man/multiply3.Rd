@@ -16,3 +16,6 @@ multiply3(a, b, c)
 \description{
 This function takes three numeric inputs and multiplies them.
 }
+\examples{
+multiply3(2, 3, 4)
+}

@@ -14,3 +14,6 @@ pctformat(x, digits = 2)
 \description{
 This function takes a number and formats it as a percentage.
 }
+\examples{
+pctformat(0.1234) # returns "12.34\%"
+}

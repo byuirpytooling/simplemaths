@@ -12,3 +12,6 @@ TheLog10(numb)
 \description{
 This function does nothing useful but it is fun to create a function.
 }
+\examples{
+log10(5)
+}
